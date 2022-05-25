@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any related to graphics programming that I can learn from**
 
-- 🤝 I’m looking for help with **anything I am knowlege able about**
+- 🤝 I’m looking for help with **anything I am knowledgeable about**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
