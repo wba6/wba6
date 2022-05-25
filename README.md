@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm William Aey</h1>
+<h1 align="center">Hi 👋, I'm William A</h1>
 <h3 align="center">I work with a variety of languages and enjoy challenges. I also enjoy working and learning with others so hit me up if you have a cool project</h3>
 
 
