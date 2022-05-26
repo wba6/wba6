@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **improving my opengl knowlege and kills**
+- 🔭 I’m currently working on **improving my opengl knowlege and skills**
 
 - 🌱 I’m currently learning **c++, rust, and a few standards like opengl and stl**
 
