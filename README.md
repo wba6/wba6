@@ -22,7 +22,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tank1-41&show_icons=true&locale=en&layout=compact" alt="tank1-41" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tank1-41&show_icons=true&locale=en" alt="tank1-41" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tank1-41&show_icons=true&locale=en" alt="tank1-41" /></p>
 
-<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=tank1-41&" alt="tank1-41" /></p>
+<p> align="center"<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=tank1-41&" alt="tank1-41" /></p>
 
