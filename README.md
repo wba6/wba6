@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **improving my opengl knowlege and skills**
 
-- 🌱 I’m currently learning **c++, rust, and a few standards like opengl and stl**
+- 🌱 I’m currently learning **c++, rust, and a few standards like opengl , stl and valkin**
 
 - 👯 I’m looking to collaborate on **any related to graphics programming that I can learn from**
 
