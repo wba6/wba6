@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Agate -** https://github.com/TANK1-41/Agate 
 
-- 🌱 I’m currently learning **learning about design patterns, algorithms and data structures**
+- 🌱 I’m currently learning **about design patterns, algorithms and data structures**
 
 - 👯 I’m looking to collaborate on **graphics projects or anything with guidence to learn**
 
