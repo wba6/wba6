@@ -3,13 +3,11 @@
 
 
 
-- 🔭 I’m currently working on **improving my opengl knowlege and skills**
+- 🔭 I’m currently working on **Agate -** https://github.com/TANK1-41/Agate 
 
-- 🌱 I’m currently learning **C++, rust, and a few standards like opengl , stl and valkin**
+- 🌱 I’m currently learning **learning about design patterns, algorithms and data structures**
 
-- 👯 I’m looking to collaborate on **any related to graphics programming that I can learn from**
-
-- 🤝 I’m looking for help with **anything I am knowledgeable about**
+- 👯 I’m looking to collaborate on **graphics projects or anything with guidence to learn**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
