@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **about design patterns, algorithms and data structures**
 
-- 👯 I’m looking to collaborate on **graphics projects or anything with guidence to learn**
+- 👯 I’m looking to collaborate on **real-time graphics projects or anything with guidence to learn**
 
 
 
