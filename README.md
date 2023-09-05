@@ -17,11 +17,11 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wba6&theme=blue-green&hide_border=false" alt="wba6" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wba6&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="wba6" /></p>
--->
+
 
 <h2 align="center">## 🏆 GitHub Trophies</h2>
 <p align="center">&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=wba6&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="dev quote" /></p>
-
+-->
 
 <h3 align="center"> Random Dev Quote</h3>
 <p align="center">&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote" /></p>
