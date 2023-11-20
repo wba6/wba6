@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Agate -** https://github.com/wba6/Agate AND with **Akronauts **
+- 🔭 I’m currently working on **Agate -** https://github.com/wba6/Agate AND with the  **Akronauts -** https://akronauts.wordpress.com/ 
 
 - 🌱 I’m currently attending the University of Akron pursuing a bachelors in **Computer Science and Applied Mathematics**
 
