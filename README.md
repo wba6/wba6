@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm William A 
-  <a href="https://www.linkedin.com/in/william-aey-a117b9224/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william (braden) aey" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/william-aey-wba6" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william (braden) aey" height="30" width="40" /></a>
 </h1>
 
 <h3 align="center">I work with a variety of languages and enjoy challenges. I also enjoy working and learning with others! </h3>
