@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Agate -** https://github.com/wba6/Agate AND   **srcML -** https://github.com/srcML/srcML 
 
-- 🌱 I’m currently attending the University of Akron pursuing a bachelors in **Computer Science and Applied Mathematics**
+- 🌱 I’m currently attending the University of Akron pursuing a **B.S in Computer Science and a B.S in Applied Mathematics**
 
 - 👯 I’m looking to collaborate on **real-time graphics projects or anything with guidence to learn**
 
