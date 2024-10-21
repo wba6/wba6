@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently attending the University of Akron pursuing a **B.S in Computer Science and a B.S in Applied Mathematics**
 
-- 👯 I’m looking to collaborate on **real-time graphics projects or anything with guidence to learn**
+- 👯 I’m looking to collaborate on **graphics projects or anything that allows me to expand and utilize my current knowledge base*
 
-- Fun Fact: My favorite open source project is [Dear ImGui](https://github.com/ocornut/imgui)
+- **Fun Fact**: My favorite open-source project is [Dear ImGui](https://github.com/ocornut/imgui)
 <!--<h1 align="center"># 📊 GitHub Stats</h1>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wba6&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="wba6" /></p>
