@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently attending the University of Akron pursuing a **B.S in Computer Science and a B.S in Applied Mathematics**
 
-- 👯 I’m looking to collaborate on **graphics projects or anything that allows me to expand and utilize my current knowledge base*
+- 👯 I’m looking to collaborate on **graphics projects or anything that allows me to expand and utilize my current knowledge base**
 
 - **Fun Fact**: My favorite open-source project is [Dear ImGui](https://github.com/ocornut/imgui)
 <!--<h1 align="center"># 📊 GitHub Stats</h1>
